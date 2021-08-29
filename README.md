@@ -38,10 +38,14 @@
   
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-black?style=flat&logo=ios&logoColor=white)
   
 ##
 
+<div align="center">
+  
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisepehrnia&hide=javascript,html,css&layout=compact)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisepehrnia&layout=compact&theme=dark)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alisepehrnia&count_private=true&show_icons=true&theme=dark)
+  
+</div>
