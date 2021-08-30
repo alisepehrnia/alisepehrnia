@@ -8,17 +8,21 @@
 
 [![Gmail](https://img.shields.io/badge/alisepehrnia77@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alisepehrnia77@gmail.com)
 [![Linkedin](https://img.shields.io/badge/Ali_Sepehrnia-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alisepehrnia) 
-  
-<!--[![Stack Overflow](https://img.shields.io/badge/Ali_Sepehrnia-F58025?style=flat&logo=stack-overflow&logoColor=white)()-->
+[![Medium](https://img.shields.io/badge/Ali_Sepehrnia-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@alisepehrnia)
+[![Stack Overflow](https://img.shields.io/badge/Ali_Sepehrnia-F58025?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14310464/ali-sepehrnia)
   
 </div>
 
 ##
   
-#### **Programming Languages**
+#### **Languages & Frameworks**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-black?style=flat&logo=Markdown&logoColor=white)
 
 #### **Tools and Technologies**
   
@@ -27,11 +31,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-black?style=flat&logo=Markdown&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Phtoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
   
 #### **Operating Systems**
