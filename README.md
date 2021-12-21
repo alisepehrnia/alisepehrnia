@@ -4,7 +4,7 @@
 
 ## I am [Ali Sepehrnia](https://sepehrnia.net)
 
-##### A Mid-Level .NET Developer
+##### A .NET Developer To Be
 
 [![Gmail](https://img.shields.io/badge/alisepehrnia77@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alisepehrnia77@gmail.com)
 [![Linkedin](https://img.shields.io/badge/Ali_Sepehrnia-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alisepehrnia) 
