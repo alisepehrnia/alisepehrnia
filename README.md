@@ -1,11 +1,13 @@
 <div align="center">
   
-### 👋 Hey there! I am [Ali Sepehrnia](https://sepehrnia.net) | A .NET Developer To Be
+### 👋 Hey there!
+### I am [Ali Sepehrnia](https://sepehrnia.net) | A .NET Developer To Be
+
 ##
 Contact me:
 
-[![Gmail](https://img.shields.io/badge/alisepehrnia77@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alisepehrnia77@gmail.com)
-[![Linkedin](https://img.shields.io/badge/Ali_Sepehrnia-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alisepehrnia) 
+[![Gmail](https://img.shields.io/badge/alisepehrnia77@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alisepehrnia77@gmail.com)
+[![Linkedin](https://img.shields.io/badge/Ali_Sepehrnia-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alisepehrnia) 
   
 </div>
 
