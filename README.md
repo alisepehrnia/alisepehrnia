@@ -36,7 +36,7 @@ Contact me:
 <div align="center">
   
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisepehrnia&hide=javascript,html,css&layout=compact)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisepehrnia&layout=compact&theme=dark&hide=)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alisepehrnia&count_private=true&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisepehrnia&layout=compact&theme=radical&hide=html,css)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alisepehrnia&count_private=true&show_icons=true&theme=radical)
   
 </div>
