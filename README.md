@@ -1,7 +1,7 @@
 <div align="center">
   
 ### 👋 Hey there!
-### I am [Ali Sepehrnia](https://sepehrnia.net) | A .NET Developer To Be
+### I am [Ali Sepehrnia](https://alisepehrnia.github.io/) | .NET Developer Expert In Desktop Applications
 
 ##
 Contact me:
