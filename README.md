@@ -2,6 +2,10 @@
   
 ### 👋 Hey there!
 ### I am [Ali Sepehrnia](https://alisepehrnia.github.io/) | .NET Developer Expert In Desktop Applications
+I started to learn computer with editing PC games and working with almost any software out there.
+Learned c#, php and wordpress in high school, earned some money from c# desktop & web apps devlopment.
+Graduated Software Engineering (B.Sc) & AI (M.Sc).
+I Also worked on IOT, Finanical markets and Music
 
 ##
 Contact me:
