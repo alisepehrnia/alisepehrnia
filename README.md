@@ -19,21 +19,13 @@ Contact me:
   
 #### **Tech Stack**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-5C2D91?style=flat-square&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-5C2D91?style=flat-square&logoColor=white)
+C#/.NET/EF/WPF/ASP.NET/Python
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+HTML/CSS/JS/Bootstrap/Tailwind/React
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white)
+VS/VS Code
 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Phtoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=black)
+Windows/Ubuntu/Arch Linux
   
 ##
 
